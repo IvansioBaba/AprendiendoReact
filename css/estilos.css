@@ -1,0 +1,18 @@
+body{
+    background-image: url('https://www.compraencarmona.es/wp-content/uploads/2020/11/toni.jpg');
+}
+
+header{
+    width: 400;
+    height: 600;
+    text-align: center;
+}
+
+button{
+    height: 7vh;
+    
+
+}
+.centrado{
+    text-align: center;
+}
